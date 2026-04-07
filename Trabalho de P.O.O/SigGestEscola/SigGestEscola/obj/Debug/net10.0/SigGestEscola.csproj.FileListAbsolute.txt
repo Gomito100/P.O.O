@@ -1,0 +1,14 @@
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\bin\Debug\net10.0\SigGestEscola.exe
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\bin\Debug\net10.0\SigGestEscola.deps.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\bin\Debug\net10.0\SigGestEscola.runtimeconfig.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\bin\Debug\net10.0\SigGestEscola.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\bin\Debug\net10.0\SigGestEscola.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\obj\Debug\net10.0\SigGestEscola.GeneratedMSBuildEditorConfig.editorconfig
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\obj\Debug\net10.0\SigGestEscola.AssemblyInfoInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\obj\Debug\net10.0\SigGestEscola.AssemblyInfo.cs
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\obj\Debug\net10.0\SigGestEscola.csproj.CoreCompileInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\obj\Debug\net10.0\SigGestEscola.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\obj\Debug\net10.0\refint\SigGestEscola.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\obj\Debug\net10.0\SigGestEscola.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\obj\Debug\net10.0\SigGestEscola.genruntimeconfig.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\SigGestEscola\SigGestEscola\obj\Debug\net10.0\ref\SigGestEscola.dll
