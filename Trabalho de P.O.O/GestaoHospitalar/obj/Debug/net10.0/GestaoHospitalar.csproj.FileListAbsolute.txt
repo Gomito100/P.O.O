@@ -1,0 +1,14 @@
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\bin\Debug\net10.0\GestaoHospitalar.exe
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\bin\Debug\net10.0\GestaoHospitalar.deps.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\bin\Debug\net10.0\GestaoHospitalar.runtimeconfig.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\bin\Debug\net10.0\GestaoHospitalar.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\bin\Debug\net10.0\GestaoHospitalar.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\obj\Debug\net10.0\GestaoHospitalar.GeneratedMSBuildEditorConfig.editorconfig
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\obj\Debug\net10.0\GestaoHospitalar.AssemblyInfoInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\obj\Debug\net10.0\GestaoHospitalar.AssemblyInfo.cs
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\obj\Debug\net10.0\GestaoHospitalar.csproj.CoreCompileInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\obj\Debug\net10.0\GestaoHospitalar.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\obj\Debug\net10.0\refint\GestaoHospitalar.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\obj\Debug\net10.0\GestaoHospitalar.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\obj\Debug\net10.0\GestaoHospitalar.genruntimeconfig.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoHospitalar\obj\Debug\net10.0\ref\GestaoHospitalar.dll

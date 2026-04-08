@@ -1,0 +1,14 @@
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\bin\Debug\net10.0\LojaOnline.exe
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\bin\Debug\net10.0\LojaOnline.deps.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\bin\Debug\net10.0\LojaOnline.runtimeconfig.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\bin\Debug\net10.0\LojaOnline.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\bin\Debug\net10.0\LojaOnline.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\obj\Debug\net10.0\LojaOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\obj\Debug\net10.0\LojaOnline.AssemblyInfoInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\obj\Debug\net10.0\LojaOnline.AssemblyInfo.cs
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\obj\Debug\net10.0\LojaOnline.csproj.CoreCompileInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\obj\Debug\net10.0\LojaOnline.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\obj\Debug\net10.0\refint\LojaOnline.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\obj\Debug\net10.0\LojaOnline.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\obj\Debug\net10.0\LojaOnline.genruntimeconfig.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\LojaOnline\obj\Debug\net10.0\ref\LojaOnline.dll
