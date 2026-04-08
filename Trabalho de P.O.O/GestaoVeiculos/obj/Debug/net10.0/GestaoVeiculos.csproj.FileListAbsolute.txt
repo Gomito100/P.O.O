@@ -1,0 +1,14 @@
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\bin\Debug\net10.0\GestaoVeiculos.exe
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\bin\Debug\net10.0\GestaoVeiculos.deps.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\bin\Debug\net10.0\GestaoVeiculos.runtimeconfig.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\bin\Debug\net10.0\GestaoVeiculos.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\bin\Debug\net10.0\GestaoVeiculos.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\obj\Debug\net10.0\GestaoVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\obj\Debug\net10.0\GestaoVeiculos.AssemblyInfoInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\obj\Debug\net10.0\GestaoVeiculos.AssemblyInfo.cs
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\obj\Debug\net10.0\GestaoVeiculos.csproj.CoreCompileInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\obj\Debug\net10.0\GestaoVeiculos.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\obj\Debug\net10.0\refint\GestaoVeiculos.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\obj\Debug\net10.0\GestaoVeiculos.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\obj\Debug\net10.0\GestaoVeiculos.genruntimeconfig.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\GestaoVeiculos\obj\Debug\net10.0\ref\GestaoVeiculos.dll

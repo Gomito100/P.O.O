@@ -1,0 +1,14 @@
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\obj\Debug\net10.0\BibliotecaMunicipal.GeneratedMSBuildEditorConfig.editorconfig
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\obj\Debug\net10.0\BibliotecaMunicipal.AssemblyInfoInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\obj\Debug\net10.0\BibliotecaMunicipal.AssemblyInfo.cs
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\obj\Debug\net10.0\BibliotecaMunicipal.csproj.CoreCompileInputs.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\bin\Debug\net10.0\BibliotecaMunicipal.exe
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\bin\Debug\net10.0\BibliotecaMunicipal.deps.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\bin\Debug\net10.0\BibliotecaMunicipal.runtimeconfig.json
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\bin\Debug\net10.0\BibliotecaMunicipal.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\bin\Debug\net10.0\BibliotecaMunicipal.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\obj\Debug\net10.0\BibliotecaMunicipal.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\obj\Debug\net10.0\refint\BibliotecaMunicipal.dll
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\obj\Debug\net10.0\BibliotecaMunicipal.pdb
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\obj\Debug\net10.0\BibliotecaMunicipal.genruntimeconfig.cache
+D:\3º Ano II\P.O.O C# II\Trabalho de P.O.O\BibliotecaMunicipal\obj\Debug\net10.0\ref\BibliotecaMunicipal.dll
