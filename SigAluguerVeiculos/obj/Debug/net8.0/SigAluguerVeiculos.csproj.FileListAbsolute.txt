@@ -1,0 +1,14 @@
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\bin\Debug\net8.0\SigAluguerVeiculos.exe
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\bin\Debug\net8.0\SigAluguerVeiculos.deps.json
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\bin\Debug\net8.0\SigAluguerVeiculos.runtimeconfig.json
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\bin\Debug\net8.0\SigAluguerVeiculos.dll
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\bin\Debug\net8.0\SigAluguerVeiculos.pdb
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\obj\Debug\net8.0\SigAluguerVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\obj\Debug\net8.0\SigAluguerVeiculos.AssemblyInfoInputs.cache
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\obj\Debug\net8.0\SigAluguerVeiculos.AssemblyInfo.cs
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\obj\Debug\net8.0\SigAluguerVeiculos.csproj.CoreCompileInputs.cache
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\obj\Debug\net8.0\SigAluguerVeiculos.dll
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\obj\Debug\net8.0\refint\SigAluguerVeiculos.dll
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\obj\Debug\net8.0\SigAluguerVeiculos.pdb
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\obj\Debug\net8.0\SigAluguerVeiculos.genruntimeconfig.cache
+D:\3º Ano II\SGBD II\Trabalhos SGBD II\SigAluguerVeiculos\obj\Debug\net8.0\ref\SigAluguerVeiculos.dll
